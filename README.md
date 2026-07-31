@@ -56,6 +56,8 @@ Sistema desktop desenvolvido em Java para gerenciamento de loja.
 * MySQL
 * Maven
 
+Repositório: https://github.com/CauaPeresAdriani/gestao-shop
+
 ---
 
 
